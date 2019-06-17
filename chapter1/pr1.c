@@ -1,4 +1,7 @@
-//
-// Created by Sana on 6/14/2019.
-//
+#include<stdio.h>
 
+int main()
+{
+    printf("hello world");
+    return 0;
+}
