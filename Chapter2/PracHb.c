@@ -1,4 +1,4 @@
-//if a five digit number is input through the keyboard, write  program to reverse the number.
+//Question- if a five digit number is input through the keyboard, write  program to reverse the number.
 #include <stdio.h>
 int main()
 {
